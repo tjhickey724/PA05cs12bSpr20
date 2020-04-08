@@ -2,8 +2,9 @@ package lesson19;
 
 import java.util.Random;
 /**
- *  
- * @author tim
+ *
+ * @author Tim Hickey
+ * @author Ghazal Hashemi
  *
  */
 
